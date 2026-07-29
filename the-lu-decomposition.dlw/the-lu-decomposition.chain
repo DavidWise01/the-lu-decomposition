@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 2011
+slug  : the-lu-decomposition
+seal  : f3b0da05cf444c19badaf306b03ceead1673645ad60cca5a377d97b30ac28b29
+prev  : 80d3ae05c8cd5122ef1cc78cedd52ed7f0173d25846cff1d286f70bf61baf269
+link  : 7b9b1ce3bcc0709b6dd1b722f27547abe0644cb8ed1714bb99894b456de5d2fd
+head  : 27e9ece7321ff017394580c9b88c1e336d1bdb997b25cee35ad786933c6936e4
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
